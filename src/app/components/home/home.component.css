@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+}
+
+.icon{
+    background-color: rgb(133, 6, 6);
+}
+
+#main{
+
+      display: flex;
+      justify-content:center; 
+      align-items: center;   
+      height: 100vh;        
+    
+}
+
+h1{
+    margin: 0px;
+    text-align: center;
+}
+
