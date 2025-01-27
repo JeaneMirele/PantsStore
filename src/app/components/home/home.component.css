@@ -2,21 +2,30 @@
     margin: 0px;
 }
 
-.icon{
-    background-color: rgb(133, 6, 6);
-}
-
-#main{
-
-      display: flex;
-      justify-content:center; 
-      align-items: center;   
-      height: 100vh;        
-    
-}
-
-h1{
+.h1{
     margin: 0px;
     text-align: center;
+    font-family: 'UnifrakturMaguntia';
 }
 
+.label{
+    width: 100%;
+}
+
+.buttons{
+   
+     background-color:rgb(133, 6, 6);
+     -webkit-text-fill-color: white;
+ 
+}
+
+.btn-container{
+    display: flex;
+    justify-content:end;
+    align-items: end;
+    margin: 16px;
+}
+.form{
+    display: flex;
+    justify-content: center;
+}

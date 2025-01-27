@@ -1,0 +1,28 @@
+.label{
+    text-align: center;
+    font-family: 'UnifrakturMaguntia';
+    width: 100%;
+}
+
+.buttons{
+    background-color:rgb(133, 6, 6) !important;
+    -webkit-text-fill-color: white;
+    font-family: 'UnifrakturMaguntia';
+    
+}
+
+.form-container{
+    display: flex;
+    justify-content: center;
+    width: 100vw; 
+    height: 100vh;
+    margin: 0 auto;
+    
+}
+
+
+
+.form{
+    display:flex;
+    flex-direction: column;
+}

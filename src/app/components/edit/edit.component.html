@@ -1,0 +1,33 @@
+
+    <div class="label"> 
+        <h1> Editar </h1> 
+    </div>
+    
+    <div class="form-container">
+        <form class="form" [formGroup]="produtoForm" (ngSubmit)="edit()">
+            <mat-form-field appearance="fill">
+                <mat-label>nome</mat-label>
+                <input matInput placeholder="Nome" formControlName="nome" required >
+            </mat-form-field>
+            <mat-form-field>
+                <mat-label>descricao</mat-label>
+                <input matInput placeholder="Descrição" formControlName="descricao" required>
+            </mat-form-field>
+            <mat-form-field>
+                <mat-label>preco</mat-label>
+                <input matInput type="number" placeholder="Preço" formControlName="preco" required>
+            </mat-form-field>
+            <mat-form-field>
+            <mat-label>categoria</mat-label>
+                <input matInput placeholder="Categoria" formControlName="categoria" required >
+                </mat-form-field>
+            <mat-form-field>
+                <mat-label>tamanho</mat-label>
+                <input matInput placeholder="Tamanho" formControlName="tamanho" required >
+            </mat-form-field>
+            <button class="buttons"  mat-flat-button type="submit">Alterar</button>
+        
+    </form>
+    </div>
+   
+    

@@ -1,85 +1,20 @@
 {
-    "produtos":  [
-        
-            {
-              "id": 1,
-              "nome": "Calça Skinny",
-              "descricao": "Calça ajustada com design moderno e confortável.",
-              "preco": 120.00,
-              "categoria": "Casual",
-              "tamanho": "M"
-            },
-            {
-              "id": 2,
-              "nome": "Calça Jogger",
-              "descricao": "Estilo esportivo, ideal para o dia a dia.",
-              "preco": 140.00,
-              "categoria": "Esportivo",
-              "tamanho": "G"
-            },
-            {
-              "id": 3,
-              "nome": "Calça Flare",
-              "descricao": "Modelo clássico com barra ampla.",
-              "preco": 150.00,
-              "categoria": "Formal",
-              "tamanho": "P"
-            },
-            {
-              "id": 4,
-              "nome": "Calça Reta",
-              "descricao": "Modelo básico e versátil para qualquer ocasião.",
-              "preco": 100.00,
-              "categoria": "Casual",
-              "tamanho": "M"
-            },
-            {
-              "id": 5,
-              "nome": "Calça Wide Leg",
-              "descricao": "Corte amplo e confortável, perfeito para looks despojados.",
-              "preco": 180.00,
-              "categoria": "Casual",
-              "tamanho": "G"
-            },
-            {
-                "id": 6,
-                "nome": "Calça Slim Fit",
-                "descricao": "Modelo ajustado que combina estilo e conforto.",
-                "preco": 130.00,
-                "categoria": "Casual",
-                "tamanho": "P"
-              },
-              {
-                "id": 7,
-                "nome": "Calça Cargo",
-                "descricao": "Com vários bolsos, ideal para aventuras ao ar livre.",
-                "preco": 160.00,
-                "categoria": "Esportivo",
-                "tamanho": "G"
-              },
-              {
-                "id": 8,
-                "nome": "Calça Social",
-                "descricao": "Perfeita para ocasiões formais, com corte clássico.",
-                "preco": 200.00,
-                "categoria": "Formal",
-                "tamanho": "M"
-              },
-              {
-                "id": 9,
-                "nome": "Calça Jeans",
-                "descricao": "Indispensável no guarda-roupa, ideal para qualquer ocasião.",
-                "preco": 110.00,
-                "categoria": "Casual",
-                "tamanho": "M"
-              },
-              {
-                "id": 10,
-                "nome": "Calça Pantalona",
-                "descricao": "Modelo elegante e confortável, com caimento perfeito.",
-                "preco": 190.00,
-                "categoria": "Formal",
-                "tamanho": "G"
-              }
-            ]                    
+  "produtos": [
+    {
+      "nome": "Calça Reta",
+      "descricao": "Modelo básico e versátil para qualquer ocasião.",
+      "preco": 100,
+      "categoria": "Casual",
+      "tamanho": "M",
+      "id": "4693"
+    },
+    {
+      "id": "5594",
+      "nome": "Calça Wide Leg",
+      "descricao": "Corte amplo e confortável, perfeito para looks despojados.",
+      "preco": 180,
+      "categoria": "Casual",
+      "tamanho": "G"
+    }
+  ]
 }
